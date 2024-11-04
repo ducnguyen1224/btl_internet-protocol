@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "../abc"
+		},
+		{
+			"path": "../adc"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../controll_node"
+		},
+		{
+			"path": "../Duc_iot"
+		},
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../test_prj"
+		},
+		{
+			"path": "../test_project"
+		},
+		{
+			"name": "cao",
+			"path": "../cao"
+		},
+		{
+			"path": "../../../Zalo Received Files/qualcomm-project-main/qualcomm-project-main"
+		},
+		{
+			"name": "test_bh1705",
+			"path": "../test_bh1705"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp"
+		}
+	}
+}
